@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Solidity and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... {Discord Coming Soon}
+- 🚢 https://opensea.io/SpecChain
 
 <!---
 SpecChain/SpecChain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
